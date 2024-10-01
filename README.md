@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Nathani</h1>
-<h3 align="center">A passionate Software Developer in canada.</h3>
+<h3 align="center">A passionate Software Developer in Montreal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnathani0708&label=Profile%20views&color=0e75b6&style=flat" alt="yashnathani0708" /> </p>
 
@@ -11,15 +11,13 @@
 
 - 👯 I’m looking to collaborate on **any interesting projects**
 
-- 🤝 I’m looking for help with **networking**
-
 - 👨‍💻 All of my projects are available at [https://github.com/YashNathani0708](https://github.com/YashNathani0708)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yash-nathani-930388251/](https://www.linkedin.com/in/yash-nathani-930388251/)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Y_nathan@live.concordia.ca**
+- 📫 How to reach me **y_nathan@live.concordia.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
